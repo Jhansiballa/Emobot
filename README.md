@@ -99,7 +99,4 @@ Jhansi Balla
 B.Tech – Information Technology (4th Year)
 MVGR College of Engineering
 
-📜 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
